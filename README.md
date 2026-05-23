@@ -1,8 +1,4 @@
-# **Customer-Segmentation-using-Machine-Learning
-
-
-```md
-# Customer Segmentation using Machine Learning
+# Customer-Segmentation-using-Machine-Learning
 
 ## Overview
 This project focuses on customer segmentation using Machine Learning techniques to identify different groups of customers based on their purchasing behavior. The objective is to help businesses understand customer patterns and improve targeted marketing strategies.
